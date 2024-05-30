@@ -1,5 +1,8 @@
 # Convert PDF to DOCX Using Python Lib
 
+  * [Install PreRequisites](#install-prerequisites)
+  * [Create Sample PDF](#create-sample-pdf)
+  * [Convert Sample PDF to DOCX](#convert-sample-pdf-to-docx)(devbox)
 
 ## Install PreRequisites
 
