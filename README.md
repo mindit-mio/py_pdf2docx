@@ -2,7 +2,7 @@
 
   * [Install PreRequisites](#install-prerequisites)
   * [Create Sample PDF](#create-sample-pdf)
-  * [Convert Sample PDF to DOCX](#convert-sample-pdf-to-docx)(devbox)
+  * [Convert Sample PDF to DOCX](#convert-sample-pdf-to-docx)
 
 ## Install PreRequisites
 
